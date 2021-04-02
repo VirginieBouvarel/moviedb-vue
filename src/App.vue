@@ -37,6 +37,12 @@ body {
 	font-size:1.4rem;
 }
 
+section {
+    max-width:800px;
+    margin:0 auto;
+    padding:1rem;
+}
+
 h1, h2, h3 {
 	margin:0;
 }
