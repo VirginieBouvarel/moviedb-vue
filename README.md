@@ -1,24 +1,13 @@
-# moviedb-vue
+### Live version [here](https://vue-moviedb.vercel.app/#/).
 
-## Project setup
-```
-npm install
-```
+# Vue MovieDB
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Design preview for this project ](./src/assets/preview.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Détails
 
-### Lints and fixes files
-```
-npm run lint
-```
+> Technos utilisées : HTML/CSS/JS/Vue.js
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Projet en cours ...
+
+Pour ce projet mon objectif était de réaliser une version Vue.js d'un projet déjà réalisé en Javascript Vanilla ([version JS](https://github.com/VirginieBouvarel/projets_perso/tree/main/movieDB_sandbox)\)). Il s'agit d'une mini application permettant d'interroger l'API MovieDB afin d'afficher des films correspondant aux mots clés saisis dans un champ de recherche.
